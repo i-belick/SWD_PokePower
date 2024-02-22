@@ -64,8 +64,8 @@ maps = {
     'дорога_9': 35,
 }
 suma = {'монета': '0'}
-name = 'Lionard_PRO'
-pas = 'vifray2002A39509a'
+name = ''
+pas = ''
 gendcat = ''
 valu = '0'
 xth = "//img[@src='/img/world/items/small/{}.png']"
